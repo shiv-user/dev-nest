@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dev-nest/static/css/main.d7313b1d.chunk.css",
+    "main.js": "/dev-nest/static/js/main.587c9e32.chunk.js",
+    "main.js.map": "/dev-nest/static/js/main.587c9e32.chunk.js.map",
+    "runtime-main.js": "/dev-nest/static/js/runtime-main.6fb8ac13.js",
+    "runtime-main.js.map": "/dev-nest/static/js/runtime-main.6fb8ac13.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/dev-nest/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d3a02d7e.chunk.js": "/dev-nest/static/js/2.d3a02d7e.chunk.js",
+    "static/js/2.d3a02d7e.chunk.js.map": "/dev-nest/static/js/2.d3a02d7e.chunk.js.map",
+    "index.html": "/dev-nest/index.html",
+    "precache-manifest.ff25c7bbe1d5ad22c3755eb03fc71135.js": "/dev-nest/precache-manifest.ff25c7bbe1d5ad22c3755eb03fc71135.js",
+    "service-worker.js": "/dev-nest/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/dev-nest/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d7313b1d.chunk.css.map": "/dev-nest/static/css/main.d7313b1d.chunk.css.map",
+    "static/js/2.d3a02d7e.chunk.js.LICENSE.txt": "/dev-nest/static/js/2.d3a02d7e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dev-nest/static/media/background2.4a597ecb.jpg",
+    "static/media/datascience.webp": "/dev-nest/static/media/datascience.e9179d8b.webp",
+    "static/media/fullstack.jpg": "/dev-nest/static/media/fullstack.185fdd38.jpg",
+    "static/media/ios.jpg": "/dev-nest/static/media/ios.2e4f3615.jpg",
+    "static/media/logo – 1.png": "/dev-nest/static/media/logo – 1.007e2fdd.png",
+    "static/media/rowImage.jpg": "/dev-nest/static/media/rowImage.217eb287.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb8ac13.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d3a02d7e.chunk.js",
+    "static/css/main.d7313b1d.chunk.css",
+    "static/js/main.587c9e32.chunk.js"
+  ]
+}
