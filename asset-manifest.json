@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dev-nest/static/css/main.d7313b1d.chunk.css",
-    "main.js": "/dev-nest/static/js/main.a6435fc0.chunk.js",
-    "main.js.map": "/dev-nest/static/js/main.a6435fc0.chunk.js.map",
+    "main.css": "/dev-nest/static/css/main.bde1aab8.chunk.css",
+    "main.js": "/dev-nest/static/js/main.27acf359.chunk.js",
+    "main.js.map": "/dev-nest/static/js/main.27acf359.chunk.js.map",
     "runtime-main.js": "/dev-nest/static/js/runtime-main.6fb8ac13.js",
     "runtime-main.js.map": "/dev-nest/static/js/runtime-main.6fb8ac13.js.map",
     "static/css/2.af3c1da9.chunk.css": "/dev-nest/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d3a02d7e.chunk.js": "/dev-nest/static/js/2.d3a02d7e.chunk.js",
-    "static/js/2.d3a02d7e.chunk.js.map": "/dev-nest/static/js/2.d3a02d7e.chunk.js.map",
+    "static/js/2.64298ba8.chunk.js": "/dev-nest/static/js/2.64298ba8.chunk.js",
+    "static/js/2.64298ba8.chunk.js.map": "/dev-nest/static/js/2.64298ba8.chunk.js.map",
     "index.html": "/dev-nest/index.html",
-    "precache-manifest.4039b22152cdd3d5b6ec2232837408bd.js": "/dev-nest/precache-manifest.4039b22152cdd3d5b6ec2232837408bd.js",
+    "precache-manifest.33318d45c6b4497b107405fc706b4818.js": "/dev-nest/precache-manifest.33318d45c6b4497b107405fc706b4818.js",
     "service-worker.js": "/dev-nest/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/dev-nest/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d7313b1d.chunk.css.map": "/dev-nest/static/css/main.d7313b1d.chunk.css.map",
-    "static/js/2.d3a02d7e.chunk.js.LICENSE.txt": "/dev-nest/static/js/2.d3a02d7e.chunk.js.LICENSE.txt",
+    "static/css/main.bde1aab8.chunk.css.map": "/dev-nest/static/css/main.bde1aab8.chunk.css.map",
+    "static/js/2.64298ba8.chunk.js.LICENSE.txt": "/dev-nest/static/js/2.64298ba8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/dev-nest/static/media/background2.4a597ecb.jpg",
     "static/media/datascience.webp": "/dev-nest/static/media/datascience.e9179d8b.webp",
     "static/media/fullstack.jpg": "/dev-nest/static/media/fullstack.185fdd38.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.6fb8ac13.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d3a02d7e.chunk.js",
-    "static/css/main.d7313b1d.chunk.css",
-    "static/js/main.a6435fc0.chunk.js"
+    "static/js/2.64298ba8.chunk.js",
+    "static/css/main.bde1aab8.chunk.css",
+    "static/js/main.27acf359.chunk.js"
   ]
 }
