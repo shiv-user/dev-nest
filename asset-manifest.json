@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dev-nest/static/css/main.b21716c5.chunk.css",
-    "main.js": "/dev-nest/static/js/main.84bfb623.chunk.js",
-    "main.js.map": "/dev-nest/static/js/main.84bfb623.chunk.js.map",
+    "main.js": "/dev-nest/static/js/main.efd36277.chunk.js",
+    "main.js.map": "/dev-nest/static/js/main.efd36277.chunk.js.map",
     "runtime-main.js": "/dev-nest/static/js/runtime-main.6fb8ac13.js",
     "runtime-main.js.map": "/dev-nest/static/js/runtime-main.6fb8ac13.js.map",
     "static/css/2.af3c1da9.chunk.css": "/dev-nest/static/css/2.af3c1da9.chunk.css",
     "static/js/2.04c5aa21.chunk.js": "/dev-nest/static/js/2.04c5aa21.chunk.js",
     "static/js/2.04c5aa21.chunk.js.map": "/dev-nest/static/js/2.04c5aa21.chunk.js.map",
     "index.html": "/dev-nest/index.html",
-    "precache-manifest.eb99ea14bce2af2e0a8c33bb4d0f89d9.js": "/dev-nest/precache-manifest.eb99ea14bce2af2e0a8c33bb4d0f89d9.js",
+    "precache-manifest.37e87cc4847ca0478533b5648cc6e20e.js": "/dev-nest/precache-manifest.37e87cc4847ca0478533b5648cc6e20e.js",
     "service-worker.js": "/dev-nest/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/dev-nest/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.b21716c5.chunk.css.map": "/dev-nest/static/css/main.b21716c5.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.04c5aa21.chunk.js",
     "static/css/main.b21716c5.chunk.css",
-    "static/js/main.84bfb623.chunk.js"
+    "static/js/main.efd36277.chunk.js"
   ]
 }
