@@ -11,13 +11,14 @@ import Section4 from './Components/Section4';
 import Section3 from './Components/Section3';
 import Section1 from './Components/Section1';
 import Teams from './Components/Teams';
+import { Link, animateScroll as scroll } from "react-scroll";
 
 function App() {
   return (
     <>
     <Header/>
     <Section1/>
-    <Section3/>
+    <Section3 />
     <Section4/>
     <Section5/>
     <Section6/>

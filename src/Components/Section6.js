@@ -12,7 +12,7 @@ import ios from '../ios.jpg'
 function Section6() {
     return (
         
-        <div >
+        <div id="courses" style={{paddingTop:"100px"}}>
             <h1 style={{textAlign:'center',fontSize:'50px',paddingTop:'50px',}}>Explore our courses</h1>
             <Row style={{margin:'0px',padding:'0px',marginTop:"40px"}}>
                 <Col md="4" >

@@ -5,16 +5,16 @@ import {Button, Container} from 'reactstrap';
 
 const Section7=()=> {
     return (
-        <div style={{paddingTop:'50px'}}>
-            <div style={{textAlign:'center',paddingTop:'160px',paddingBottom:'160px',background:'#43b17b',}} >
+        <div style={{paddingTop:'50px'}} id="footer">
+            <div style={{textAlign:'center',paddingTop:'100px',paddingBottom:'100px',background:'#43b17b',}} >
                 <p style={{fontSize:'70px',fontWeight:'bold',color:'#fff'}}> Are You Ready To Get Onboard? 
                 </p> 
       
             <Button
-             style={{color:'#000',background:'#f4b400',padding:'18px 20px',fontSize:'18px'
+             style={{color:'#000',background:'#f4b400',fontSize:'20px'
              ,width:'20%',borderRadius:'10px',
              justifyContent:'center',
-             fontWeight:'bold',fontSize:'18px',}}
+             fontWeight:'bold',}}
              >
 
                  Apply Now

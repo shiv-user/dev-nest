@@ -4,10 +4,10 @@ import {Row,Col,Container} from 'reactstrap';
 
 function Section3() {
     return (
-        <Container>
+        <Container id="details">
     
-        <div style={{paddingBottom:'100px'}}>
-            <h1 style={{textAlign:"center",fontSize:"90px",paddingBottom:'50px'}}>Devnest is designed for students' success</h1>
+        <div >
+            <h1 style={{textAlign:"center",fontSize:"60px",paddingTop:'125px',paddingBottom:'50px'}}>Devnest is designed for students' success</h1>
             
             
             
@@ -31,8 +31,8 @@ function Section3() {
                 
                 
                 </Col>
-            </Row><br/><br/>
-            <p style={{textAlign:'center',fontSize:'25px'}}>These formulae will accelerate your knowledge to get hired by top tech companies or unicorns.</p>
+            </Row><br/>
+            <p style={{textAlign:'center',fontSize:'20px'}}>These formulae will accelerate your knowledge to get hired by top tech companies or unicorns.</p>
                 <p style={{textAlign:'center',color:'#f4b60c',fontSize:'20px',fontWeight:'bold'}}><u>Learn More</u></p>
             </div>
          

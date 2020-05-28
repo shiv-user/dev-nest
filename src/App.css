@@ -34,12 +34,7 @@ letter-spacing: 0.1px;
   background-size: cover;
    
  }
-.navbar{
-  background-color:transparent !important;
-	border-color:transparent;
-	background-image:none;
-	box-shadow:none;
-}
+
 .overlay{
   background: rgba(0, 0, 0, 0.58);
   width: 100%;
@@ -48,9 +43,23 @@ letter-spacing: 0.1px;
   top: 0;
   left: 0; 
 }
+.header{
+  background:linear-gradient(rgba(52,58,64,.7), rgba(52,58,64,.7));
+  position: fixed;
+  top: 0px;
+}
+
+
 
 .blacknav{
   background-color: #343A40;
+}
+.App{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
 }
 
 @media screen and (min-width: 0px) and (max-width: 848px) {
@@ -59,4 +68,12 @@ letter-spacing: 0.1px;
 
 @media screen and (min-width: 849px) and (max-width: 1024px) {
   #my-content { display: block; }   /* hide it elsewhere */
+}
+/* #footer{
+  background-image:url('./background2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+.layover{
+
 }

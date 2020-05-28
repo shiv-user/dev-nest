@@ -6,7 +6,7 @@ import rowimage from '../rowImage.jpg';
 
 function Section4() {
     return (
-        <div style={{paddingTop:'100px',paddingBottom:'100px'}}>
+        <div style={{paddingTop:'200px',paddingBottom:'100px'}} id="why">
             <Row style={{padding:'0px',margin:'0px'}}>
                 <Col md="6" >
                 <img src={rowimage} alt="loading..." responsive style={{width:"75%",height:"auto",borderRadius:"10px",marginLeft:'20px'}}/>

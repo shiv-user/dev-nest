@@ -6,7 +6,7 @@ import demo from '../demo.jpg'
 
 const Teams = ()=>{
     return(
-        <div style={{paddingTop:"100px"}}>
+        <div style={{paddingTop:"125px",paddingBottom:"120px"}} id="team">
         <h1 style={{fontWeight:"bold",fontSize:'60px',textAlign:"center",color:"#43b17b"}}>Meet The Team</h1>
         <p style={{textAlign:"center",fontSize:'30px'}}>Meet the people behind Devnest.
          Super Cool team of super cool platform!</p>
