@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dev-nest/static/css/main.6d22ced4.chunk.css",
-    "main.js": "/dev-nest/static/js/main.1d865f0f.chunk.js",
-    "main.js.map": "/dev-nest/static/js/main.1d865f0f.chunk.js.map",
+    "main.css": "/dev-nest/static/css/main.5e8740c3.chunk.css",
+    "main.js": "/dev-nest/static/js/main.6a54299a.chunk.js",
+    "main.js.map": "/dev-nest/static/js/main.6a54299a.chunk.js.map",
     "runtime-main.js": "/dev-nest/static/js/runtime-main.6fb8ac13.js",
     "runtime-main.js.map": "/dev-nest/static/js/runtime-main.6fb8ac13.js.map",
     "static/css/2.af3c1da9.chunk.css": "/dev-nest/static/css/2.af3c1da9.chunk.css",
     "static/js/2.db8d3ca5.chunk.js": "/dev-nest/static/js/2.db8d3ca5.chunk.js",
     "static/js/2.db8d3ca5.chunk.js.map": "/dev-nest/static/js/2.db8d3ca5.chunk.js.map",
     "index.html": "/dev-nest/index.html",
-    "precache-manifest.bc2b604abe1d66d60254c7a35fb390a2.js": "/dev-nest/precache-manifest.bc2b604abe1d66d60254c7a35fb390a2.js",
+    "precache-manifest.bb7aaadfd6a053bf46714399e0b0fb2c.js": "/dev-nest/precache-manifest.bb7aaadfd6a053bf46714399e0b0fb2c.js",
     "service-worker.js": "/dev-nest/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/dev-nest/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.6d22ced4.chunk.css.map": "/dev-nest/static/css/main.6d22ced4.chunk.css.map",
+    "static/css/main.5e8740c3.chunk.css.map": "/dev-nest/static/css/main.5e8740c3.chunk.css.map",
     "static/js/2.db8d3ca5.chunk.js.LICENSE.txt": "/dev-nest/static/js/2.db8d3ca5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/dev-nest/static/media/background2.4a597ecb.jpg",
     "static/media/datascience.webp": "/dev-nest/static/media/datascience.e9179d8b.webp",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.6fb8ac13.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.db8d3ca5.chunk.js",
-    "static/css/main.6d22ced4.chunk.css",
-    "static/js/main.1d865f0f.chunk.js"
+    "static/css/main.5e8740c3.chunk.css",
+    "static/js/main.6a54299a.chunk.js"
   ]
 }
