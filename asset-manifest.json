@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dev-nest/static/css/main.5e8740c3.chunk.css",
-    "main.js": "/dev-nest/static/js/main.538f6c38.chunk.js",
-    "main.js.map": "/dev-nest/static/js/main.538f6c38.chunk.js.map",
+    "main.css": "/dev-nest/static/css/main.ca7c76ad.chunk.css",
+    "main.js": "/dev-nest/static/js/main.9656ef39.chunk.js",
+    "main.js.map": "/dev-nest/static/js/main.9656ef39.chunk.js.map",
     "runtime-main.js": "/dev-nest/static/js/runtime-main.6fb8ac13.js",
     "runtime-main.js.map": "/dev-nest/static/js/runtime-main.6fb8ac13.js.map",
     "static/css/2.af3c1da9.chunk.css": "/dev-nest/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ac79134b.chunk.js": "/dev-nest/static/js/2.ac79134b.chunk.js",
-    "static/js/2.ac79134b.chunk.js.map": "/dev-nest/static/js/2.ac79134b.chunk.js.map",
+    "static/js/2.bb9d36d4.chunk.js": "/dev-nest/static/js/2.bb9d36d4.chunk.js",
+    "static/js/2.bb9d36d4.chunk.js.map": "/dev-nest/static/js/2.bb9d36d4.chunk.js.map",
     "index.html": "/dev-nest/index.html",
-    "precache-manifest.aa34a0d5329e90df89b39a4bea87a4d1.js": "/dev-nest/precache-manifest.aa34a0d5329e90df89b39a4bea87a4d1.js",
+    "precache-manifest.12ca77358324d06dca6f58e818bd24d1.js": "/dev-nest/precache-manifest.12ca77358324d06dca6f58e818bd24d1.js",
     "service-worker.js": "/dev-nest/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/dev-nest/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5e8740c3.chunk.css.map": "/dev-nest/static/css/main.5e8740c3.chunk.css.map",
-    "static/js/2.ac79134b.chunk.js.LICENSE.txt": "/dev-nest/static/js/2.ac79134b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/dev-nest/static/media/background2.4a597ecb.jpg",
+    "static/css/main.ca7c76ad.chunk.css.map": "/dev-nest/static/css/main.ca7c76ad.chunk.css.map",
+    "static/js/2.bb9d36d4.chunk.js.LICENSE.txt": "/dev-nest/static/js/2.bb9d36d4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dev-nest/static/media/engage.c3903e87.jpg",
     "static/media/datascience.webp": "/dev-nest/static/media/datascience.e9179d8b.webp",
     "static/media/fullstack.jpg": "/dev-nest/static/media/fullstack.185fdd38.jpg",
     "static/media/ios.jpg": "/dev-nest/static/media/ios.2e4f3615.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.6fb8ac13.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ac79134b.chunk.js",
-    "static/css/main.5e8740c3.chunk.css",
-    "static/js/main.538f6c38.chunk.js"
+    "static/js/2.bb9d36d4.chunk.js",
+    "static/css/main.ca7c76ad.chunk.css",
+    "static/js/main.9656ef39.chunk.js"
   ]
 }
